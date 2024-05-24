@@ -1,0 +1,63 @@
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/WorkSansRomanRegular.ttf");
+  font-family: "Work Sans";
+  font-weight: 400;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/InterRegular.ttf");
+  font-family: "Inter";
+  font-weight: 400;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/WorkSansRomanMedium.ttf");
+  font-family: "Work Sans";
+  font-weight: 500;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/WorkSansSemiBold.ttf");
+  font-family: "Work Sans";
+  font-weight: 600;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/WorkSansRomanBold.ttf");
+  font-family: "Work Sans";
+  font-weight: 700;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/PlusJakartaSansSemiBold.ttf");
+  font-family: "Plus Jakarta Sans";
+  font-weight: 600;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/PlusJakartaSansRegular.ttf");
+  font-family: "Plus Jakarta Sans";
+  font-weight: 400;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/PlusJakartaSansBold.ttf");
+  font-family: "Plus Jakarta Sans";
+  font-weight: 700;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/PlusJakartaSansExtraBold.ttf");
+  font-family: "Plus Jakarta Sans";
+  font-weight: 800;
+}
